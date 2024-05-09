@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">XOR translator</string>
+    <string name="text_output">Output :</string>
+    <string name="text_clean">Clean</string>
+    <string name="text_decode">Decode</string>
+    <string name="text_encode">Encode</string>
+    <string name="text_input">Input :</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
